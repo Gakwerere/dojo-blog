@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "Why do we use it?\nusing Lorem Ipsum is that it has a more-or-less\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "The biological challenge ",
+      "body": "Open access was of particular importance to us as authors because the review dealt with the research scene for a common medical condition and was intended to be of interest both to academic colleagues and to patients and carers keen to have a detailed understanding of the science.\n\nThe popularity of this article reflected not just the interest from the patient community, but also interest from academics who were aware of the collaborative spirit of the review and were attracted by that.\n\nThe authors comprise an academic, three patients, and a carer, all of whom had made use of discussion forums to foster dialogue between scientists and patients. For chronic disabling conditions, dialogue of this sort has a major impact on morale in the patient community. It may also be fair to suggest that it might help to break down divisions between competing academic groups: what might, in a friendly spirit, be called ‘banging heads together.\n\n",
+      "author": "Luc",
+      "id": 6
+    },
+    {
+      "title": "hello ninja Peaple",
+      "body": "For centuries, nation-states have been the primary actor in global affairs, but that is beginning to change as massive technology companies begin to rival them for geopolitical influence. Technology giants are increasingly shaping the global environment and wield tremendous influence over the technologies and services billions of people interact with daily. This piece explores the sovereignty tech giants wield over the digital space and beyond.  ",
+      "author": "mario",
+      "id": 17
+    },
+    {
+      "title": "kanyesaro",
+      "body": "Ababiri baruta umwe.\nutazi ubwenge ashima ubwe  gishuka  bitari bujyane",
+      "author": "Luc",
+      "id": 18
+    },
+    {
+      "title": "gaga",
+      "body": "Amenyo amerera ku majigo, inkoni igashibuka ku gishyitsi.",
+      "author": "mario",
+      "id": 19
+    },
+    {
+      "title": "Rwanda ICT Chamber",
+      "body": "The ICT Chamber is the youngest member of the Private Sector Federation (PSF), formed in August 2011 as an agent to support ICT sector development. More specifically the Rwanda ICT Chamber brings together ICT Associations, businesses, groups and individuals into a community where they can share ideas on how to promote and develop Rwanda’s ICT and ICT enabled Industries Vision “Making Rwanda, The Leading ICT-Driven Society.\" Mission \"To be the leader in influencing transformation of the economy and culture through ICT\" Objectives: ◾Creating career paths through skills development, especially among the youth, ◾Stimulating entrepreneurship and competitiveness, ◾Driving and protecting investments and innovation ◾Promoting export of ICT products and services, ◾Becoming the arbitrator of the ICT sector",
+      "author": "Luc",
+      "id": 20
+    }
+  ]
+}
