@@ -8,13 +8,7 @@ const SideBar = () => {
     
     return (
         <div>
-            <div class="sidebar">
-                <a class="closebtn" >&times;</a>
-                <a href="#">About</a>
-                <a href="#">Services</a>
-                <a href="#">Clients</a>
-                <a href="#">Contact</a>
-            </div>
+            
             <div class="sidenav">
                 <a href="#about">About</a>
                 <a href="#services">Services</a>
@@ -39,7 +33,7 @@ const SideBar = () => {
             </div>
             <div id="main">
                 <button class="openbtn" onclick={() => "openNav()"} onClick={() => console.log('You click me')}> Open Sidebar</button>
-                <h2>Collapsed Sidebar</h2>
+                
             </div>
             
         </div>
